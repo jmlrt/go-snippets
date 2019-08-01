@@ -1,3 +1,5 @@
+// Source: https://golang.org/doc/code.html
+
 // Package stringutil contains utility functions for working with strings.
 package stringutil
 
